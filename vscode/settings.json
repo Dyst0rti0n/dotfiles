@@ -1,0 +1,15 @@
+{
+    "editor.fontFamily": "Fira Code, monospace",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "editor.minimap.enabled": false,
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.fontFamily": "Fira Code, monospace",
+    "workbench.colorTheme": "Gruvbox Dark Medium",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "git.autofetch": true
+  }
+  

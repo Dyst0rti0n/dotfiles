@@ -1,0 +1,21 @@
+[
+    {
+      "key": "ctrl+n",
+      "command": "explorer.newFile",
+      "when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
+    },
+    {
+      "key": "ctrl+shift+n",
+      "command": "explorer.newFolder",
+      "when": "explorerViewletVisible && filesExplorerFocus && !inputFocus"
+    },
+    {
+      "key": "ctrl+shift+e",
+      "command": "workbench.view.explorer"
+    },
+    {
+      "key": "ctrl+shift+g",
+      "command": "workbench.view.scm"
+    }
+  ]
+  
